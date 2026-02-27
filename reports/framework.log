@@ -1,0 +1,11 @@
+2026-02-27 00:18:50,356 - INFO - Typing into element: ('id', 'user-name') | Text: wrong_user
+2026-02-27 00:21:28,340 - INFO - Typing into element: ('id', 'user-name') | Text: standard_user
+2026-02-27 00:21:28,487 - INFO - Typing into element: ('id', 'password') | Text: secret_sauce
+2026-02-27 00:21:28,574 - INFO - Clicking element: ('id', 'login-button')
+2026-02-27 00:21:36,093 - INFO - Typing into element: ('id', 'user-name') | Text: standard_user
+2026-02-27 00:21:36,262 - INFO - Typing into element: ('id', 'password') | Text: secret_sauce
+2026-02-27 00:21:36,336 - INFO - Clicking element: ('id', 'login-button')
+2026-02-27 00:21:43,591 - INFO - Typing into element: ('id', 'user-name') | Text: wrong_user
+2026-02-27 00:21:43,782 - INFO - Typing into element: ('id', 'password') | Text: wrong_pass
+2026-02-27 00:21:43,878 - INFO - Clicking element: ('id', 'login-button')
+2026-02-27 00:21:44,024 - INFO - Getting text from element: ('css selector', "h3[data-test='error']")
